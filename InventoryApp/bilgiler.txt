@@ -1,0 +1,4 @@
+1997,The Shawshank Redemption,Drama,Frank Darabont,(Tim Robbins,Male,USA)(Morgan Freeman,Male,USA)
+1994,Pulp Fiction,Crime,Quentin Tarantino,(John Travolta,Male,USA)(Samuel L. Jackson,Male,USA)(Uma Thurman,Female,USA)
+1994,Forrest Gump,Drama,Robert Zemeckis,(Tom Hanks,Male,USA)(Robin Wright,Female,USA)
+2008,The Dark Knight,Action,Christopher Nolan,(Christian Bale,Male,UK)(Heath Ledger,Male,Australia)(Gary Oldman,Male,UK)
